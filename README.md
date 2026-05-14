@@ -1,2 +1,3 @@
 # learning-sqlalcemy
-Repo for learning SQLAlcemy
+Repo for learningi SQLAlcemy
+Followed this tutorial - https://youtu.be/529LYDgRTgQ
